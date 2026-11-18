@@ -1,0 +1,7 @@
+.material-icons-round { font-size: 22px; vertical-align: middle; }
+.material-icons-round.md-18 { font-size: 18px; }
+.brand-icon { font-size: 56px; }
+.login-card { width: 100%; max-width: 380px; }
+.tool-list { max-height: 460px; overflow-y: auto; }
+.table thead th { font-size: .78rem; text-transform: uppercase; letter-spacing: .03em; color: var(--bs-secondary-color); white-space: nowrap; }
+.display-6 { font-variant-numeric: tabular-nums; }
